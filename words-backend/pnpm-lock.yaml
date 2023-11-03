@@ -1,0 +1,16 @@
+lockfileVersion: '6.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+dependencies:
+  very-good-fetch:
+    specifier: ^0.0.7
+    version: 0.0.7
+
+packages:
+
+  /very-good-fetch@0.0.7:
+    resolution: {integrity: sha512-U99bTZo1wfDrmaTGLBhgXquhEAz+RGnAYjkoD6YqS89Bd89XzZ5zxY3PeXG5qE+0vsZRVGx7TPT2o9jrJAd4RA==}
+    dev: false
